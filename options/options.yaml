@@ -1,0 +1,49 @@
+#------------------------------------------------
+# OPTIONS
+
+CHANGE_ARTWORK_WHEN_PAUSED: true
+
+PLATFORM_FORMAT: '{i}'
+PLATFORM_PAUSED_FORMAT: ''
+
+ARTISTS_FORMAT: '{i}'
+ARTISTS_PAUSED_FORMAT: ''
+
+TITLE_FORMAT: '{i}'
+TITLE_PAUSED_FORMAT: ''
+
+TIMEPASSED_PAUSED_FORMAT: ''
+DURATION_PAUSED_FORMAT: ''
+
+# HEX COLOR eg. #FFFF00 & #00000000
+PROGRESS_BAR_LOADED_COLOR: '#FF000055'
+PROGRESS_BAR_COLOR: '#00000000'
+
+# Variables:
+# {t} - Title
+# {a} - Artist(s)
+# {p} - Platform
+# {tp} - Time Passed
+# {td} - Total Duration
+# {nl} - New Line
+CUSTOM_FILE_FORMAT: '{a} - {t}{nl}{tp} - {td}'
+CUSTOM_FILE_PAUSED_FORMAT: ''
+
+#------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+#------------------------------------------------
+# OTHER
+DEBUG_LOG_DATA: true
+#------------------------------------------------

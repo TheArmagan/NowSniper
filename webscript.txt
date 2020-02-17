@@ -1,0 +1,4 @@
+https://www.tampermonkey.net/
+
+https://greasyfork.org/tr/scripts/396396-nowsniper
+
