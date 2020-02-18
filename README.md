@@ -1,6 +1,13 @@
-# NowSniper
+# 🎵 NowSniper
+###### 📡 Now Playing information scraper for streamers. 
 
-## Options Info
-soon
+---
 
-sooooooooooooooooooooooooooooooooon
+### Supportted Platforms
+- Spotify
+- SoundCloud
+
+---
+
+### 🏓 Example
+![NowSniperExampleGif](https://i.imgur.com/fGYJbKo.gif)
