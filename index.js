@@ -93,6 +93,7 @@ setInterval(() => {
         writeFile("artists", OPTIONS.ARTISTS_PAUSED_FORMAT);
         writeFile("time_passed",OPTIONS.TIMEPASSED_PAUSED_FORMAT);
         writeFile("total_duration",OPTIONS.DURATION_PAUSED_FORMAT);
+        writeFile("custom_format",OPTIONS.CUSTOM_FILE_PAUSED_FORMAT);
 
         drawProgressBar(0);
 
