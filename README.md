@@ -3,7 +3,7 @@
 
 ---
 
-### Supportted Platforms
+### ✅ Supportted Platforms
 - Spotify
 - SoundCloud
 
@@ -14,6 +14,14 @@
 
 ---
 
-### Setup
-Download the [Node.JS](https://nodejs.org) and setup.
-After download the [NowSniper](https://github.com/Armagann/NowSniper/archive/master.zip) and unzip after start the `start.cmd`.
+### 🔽 Installation
+
+## 🖥 PC Side
+Install the [Node.JS](https://nodejs.org) application.
+
+After the installation of Node.JS [NowSniper](https://github.com/Armagann/NowSniper/archive/master.zip) and unzip after start the `start.cmd`.
+
+## 🌍 Browser Side
+Install the [Tampermonkey](https://www.tampermonkey.net/) extension.
+
+After the installation of Tampermonkey install [NowSniper] and you are ready to go!
