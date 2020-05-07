@@ -1,3 +1,8 @@
+Last Update (1.0.1):
+- Fixed Spotify.
+
+---
+
 # 🎵 NowSniper
 ###### 📡 Now Playing information scraper for streamers. 
 
