@@ -1,5 +1,5 @@
 Last Update (1.0.1):
-- Fixed Spotify.
+- Fixed Spotify. (Webside)
 
 ---
 
